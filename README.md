@@ -1,16 +1,64 @@
-# hastane_randevu
+Doctor Appointment System
 
-A new Flutter project.
+Mobile application developed with Flutter & Firebase
 
-## Getting Started
+Description
 
-This project is a starting point for a Flutter application.
+Doctor Appointment System is a mobile app that allows users to select their preferred doctor and book appointments at available times. The project includes user authentication, Firestore database integration, and UI/UX development.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+User registration and login (Authentication)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+View and select doctors
+
+Book and view appointments
+
+Data management with Firebase Firestore
+
+Clean and user-friendly UI
+
+Technologies
+
+Flutter
+
+Dart
+
+Firebase (Authentication, Firestore)
+
+Git & GitHub
+
+Installation
+
+Install Flutter SDK: Flutter Installation Guide
+
+Clone the repository:
+
+git clone https://github.com/borakani/Doctor-Appointment-System.git
+
+
+Navigate to the project folder:
+
+cd Doctor-Appointment-System
+
+
+Install required packages:
+
+flutter pub get
+
+
+Run the application:
+
+flutter run
+
+UI Overview
+
+Login / Register screens
+
+Doctor selection and appointment booking screens
+
+User appointment viewing page
+
+Contributors
+
+Ekrem Bora Kani – Flutter & Firebase development, UI design
