@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "170467822265",
+    "firebase_url": "https://hastane-randevu-86694-default-rtdb.firebaseio.com",
+    "project_id": "hastane-randevu-86694",
+    "storage_bucket": "hastane-randevu-86694.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170467822265:android:2bbb1af83f14a4a850a968",
+        "android_client_info": {
+          "package_name": "com.example.hastane_randevu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqZx8eIkWf5KkwvukvaC4GZ2U4OUaDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170467822265:android:160715a95fa4ae9450a968",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqZx8eIkWf5KkwvukvaC4GZ2U4OUaDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
